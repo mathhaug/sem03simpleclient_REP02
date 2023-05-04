@@ -5,7 +5,7 @@ import (
 	"net"
 	"os"
 
-	"github.com/mathhaug/is105sem03/mycrypt"
+	"github.com/mathhaug/is105sem03_REP03/mycrypt"
 )
 
 func main() {
